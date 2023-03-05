@@ -1,0 +1,9 @@
+﻿Sku, name,description, warehouse_num
+‘PH01’, ‘Iphone11’, 'Liquid Retina HD display’,101
+‘PH02’, ‘Iphone 12’, ‘Resolution of : 1792‑by‑828‑pixel resolution at 326 ppi',101
+‘LA01’,‘HP pavilion’," 'Windows 11 Home,AMD Ryzen 5000 processors’",102
+‘LA04’,‘MacBook M1’," 'M1 includes Apple’s most advanced GPU. It benefits from years of analysis of Mac applications, including everyday apps and challenging pro workloads'",103
+‘TA01’,‘Galaxy Tab 7 Lite ’," 'Light and Portable, Sturdy Metal Frame,8MP Rear Camera’",104
+‘TA02’,‘Galaxy Tab S7 FE 5G’," ‘Large Screen, S PEN , Multi-device Connectivity’",106
+‘TV01’,‘One Plus TV’, 'Smarter tv. Smarter Choice. Vision Comfort (TÜV Rheinland Certified) 24W Speakers with Dolby Audio',101
+‘TV02’,’Samsung TV’,"‘The new Samsung Neo QLED QN90C delivers pristine contrast, color and design, rewarding you at every glance’",105
